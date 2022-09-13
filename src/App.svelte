@@ -31,6 +31,7 @@ import { onMount } from "svelte";
     promise = getPokemon()
   })
 
+
 </script>
 
 <main>
